@@ -21,7 +21,7 @@ AFF-1348-UGZYV8BN
 
 ## 首先输入这串代码,右键粘贴到终端然后回车
 ```
-apt update -y  && apt install -y curl wget sudo
+apk update && apk upgrade && apk add sudo bash wget curl
 ```
 
 ## 出现以下即为成功
