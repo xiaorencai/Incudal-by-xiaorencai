@@ -33,7 +33,7 @@ https://github.com/0xdabiaoge/singbox-lite
 ## 点击复制
 <img width="864" height="230" alt="image" src="https://github.com/user-attachments/assets/da3b7e79-3c58-45e0-ac6c-8719a6740080" />  
 
-也可以点这里直接复制  
+## 也可以点这里直接复制  
 ```
 (curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -o /usr/local/bin/sb || wget -q https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -O /usr/local/bin/sb) && chmod +x /usr/local/bin/sb && sb
 ```  
