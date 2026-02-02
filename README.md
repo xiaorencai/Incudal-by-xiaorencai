@@ -2,7 +2,7 @@
 Introduce how to use Incudal
 纯小白向使用Incudal的nat机器搭建教程（使用自带终端）  
 首先我们要购买一个机器，这个就不教学了（系统尽量用Alpine3.20）  
-https://incudal.com/  `AFF-1348-UGZYV8BN` 9.5折循环优惠，欢迎买鸡，有事找我可以帮忙解答，群内同名
+https://incudal.com/  `AFF-1348-UGZYV8BN` 9.5折循环优惠，欢迎买鸡，有事找我可以帮忙解答，群内同名  
 我们进入实例管理，点击网络  
 <img width="1204" height="503" alt="image" src="https://github.com/user-attachments/assets/f6174a2c-be48-4202-a80d-f654bb920d24" />  
 
