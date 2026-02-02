@@ -1,4 +1,4 @@
-# Incudal
+# Incudal By xiaorencai
 Introduce how to use Incudal
 纯小白向使用Incudal的nat机器搭建教程（使用自带终端）  
 首先我们要购买一个机器，这个就不教学了（系统尽量用Alpine3.20）  
@@ -16,12 +16,12 @@ https://incudal.com/
 <img width="513" height="561" alt="image" src="https://github.com/user-attachments/assets/d0db6f82-4ce1-48c3-9087-0a010792cc84" />  
 
 首先输入这串代码,右键粘贴到终端然后回车
-`apk update
-apk upgrade
-apk add sudo
-apk add curl
-apk add wget
-apk add bash`
+`apk update  
+apk upgrade  
+apk add sudo  
+apk add curl  
+apk add wget  
+apk add bash`  
 
 出现以下即为成功
 <img width="1151" height="482" alt="image" src="https://github.com/user-attachments/assets/b097955f-dfd7-47b0-a549-214634506ddb" />  
